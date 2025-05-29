@@ -1,0 +1,1 @@
+mi primer repositorio creado con inteligencia artifical de chat gpt, el promt solo fue crear app motivadora, falta aun colocar 100 frases motivadoras, solo incluye 10. voy a revisar el codigo con copilot y ver si puedoc rear web app en html para poder compartir por whatsapp y usarlas como herramientas de marketing o ayuda para mis pacientes. 
